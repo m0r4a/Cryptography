@@ -13,3 +13,11 @@ def matrix_multiplication_HILL(N: int, matrices: list, matrix: np.ndarray) -> li
     """
     result = [(np.dot(mat, matrix) % N).flatten().tolist() for mat in matrices]
     return result
+
+
+# Define matrices and matrix
+matrices = [np.array([[1, 2], [3, 4]]), np.array([[5, 6], [7, 8]])]
+matrix = np.array([[1, 0], [0, 1]])
+
+result = matrix_multiplication_HILL(N=26, matrices=matrices, matrix=matrix)
+print(result)

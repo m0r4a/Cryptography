@@ -15,9 +15,10 @@ N = (n ** block_size)
 
 texto_plano1 = "HIJOCOMOVAELSEMESTREZ"
 texto_plano2 = "DESEOPASARLOSEXAMENES"
-texto_plano3 = "EXAGERATUSALEGRIASACADEMICASSIEMPREZ"
+texto_plano3Z = "EXAGERATUSALEGRIASACADEMICASSIEMPREZ"
+ejemplo = "RAULMORAAGUIRRE"
 
-m = texto_plano2
+m = ejemplo
 
 # Encryption process
 

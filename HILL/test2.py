@@ -17,7 +17,7 @@ texto_plano1 = "HIJOCOMOVAELSEMESTRE"
 texto_plano2 = "DESEOPASARLOSEXAMENESZZZ"
 texto_plano3 = "EXAGERATUSALEGRIASACADEMICASSIEMPREZ"
 
-m = texto_plano2
+m = texto_plano3
 
 matrix = np.array([[6, 8], [12, 10]])
 
