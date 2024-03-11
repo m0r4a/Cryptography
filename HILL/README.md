@@ -87,26 +87,6 @@ print(result)
 ```
 #### Output: [186, 297, 389]
 
-## number_to_letter
-
-This function converts a numeric value into a character based on the AFIN encryption method.
-
-### Parameters:
-
-- `num` (*int*): The numeric value to be converted into a character.
-
-### Return Value:
-
-The function returns the character obtained from the numeric value.
-
-### Functionality:
-
-- **Character Lookup**: If the numeric value is within the range of alphabetic characters, it returns the corresponding character from the alphabet.
-- **Special Character Lookup**: If the numeric value is beyond the range of alphabetic characters but within the range of special characters, it returns the corresponding special character.
-- **Error Handling**: If the numeric value is out of range, it returns "Index out of range".
-
----
-
 ## Number to Letter
 
 This function transforms numbers into letters according to the AFIN encryption method.
