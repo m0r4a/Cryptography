@@ -16,7 +16,7 @@ N = (n ** block_size)
 texto_plano1 = "HIJOCOMOVAELSEMESTREZ"
 texto_plano2 = "DESEOPASARLOSEXAMENES"
 texto_plano3Z = "EXAGERATUSALEGRIASACADEMICASSIEMPREZ"
-ejemplo = "RAULMORAAGUIRRE"
+ejemplo = "ABRILCABRERA"
 
 m = ejemplo
 
