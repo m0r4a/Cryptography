@@ -7,16 +7,16 @@ from functions.AFFINE_decrypt import AFFINE_decrypt
 
 # Declaring variables
 
-n = 26
-block_size = 1
-a = 5
-b = 4
+n = 31
+block_size = 3
+a = 11
+b = 29
 N = (n ** block_size)
 
 texto_plano1 = "HIJOCOMOVAELSEMESTREZ"
 texto_plano2 = "DESEOPASARLOSEXAMENES"
 texto_plano3Z = "EXAGERATUSALEGRIASACADEMICASSIEMPREZ"
-ejemplo = "ET"
+ejemplo = "RAULMORAAGUIRRE"
 
 m = ejemplo
 
@@ -35,8 +35,6 @@ print("\nEncrypted message: ", encrypted_message)
 
 
 # Decryption process
-
-encrypted_message = "QAOOYQQEVHEQV"
 
 print("\n\n------ Decrypting ------\nEncrypted message: ", encrypted_message)
 
