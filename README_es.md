@@ -15,7 +15,7 @@ El objetivo principal de este proyecto fue simplemente tener un proyecto activo 
 Este proyecto tiene 2 métodos de encriptación y un tema matemático relacionado con la criptografía.
 
 
-<details open>
+<details>
 
 <summary>Método de encriptación AFFINE</summary>
 
@@ -276,7 +276,7 @@ Possible value for b: 7
 
 </details>
 
-<details open>
+<details>
 
 <summary>Método de encriptación HILL</summary>
 
@@ -560,7 +560,7 @@ print(result)
 
 </details>
 
-<details open>
+<details>
 
 <summary>Congruencias Lineales</summary>
 
