@@ -60,16 +60,3 @@ P = a^-1 * (E - b) (mod N)
 ## Step 4: Numbers to Letters
 
 Finally, having our transformed numbers, we can convert them back into text, obtaining our desired text.
-
-# Functions
-
-## Letter to Number
-
-## Number to Letter
-
-## AFFINE_encrypt
-
-## AFFINE_decrypt
-
-## Inverse a
-
