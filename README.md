@@ -1,6 +1,8 @@
-#My Cryptography and Python
+# My Cryptography class and Python
 
-# Introduction
+[🇲 Versión en Español](README_es.md)
+
+## Introduction
 
 This project was made for my cryptography class at university. The exams were several hours long on weekends, tedious and boring. However, we had the option to take the exams through code, so I decided to take that path.
 
@@ -14,7 +16,7 @@ The main objective of this project was simply to have an active project to conti
 
 This project features 2 encryption methods and a mathematical topic related to cryptography.
 
-<details>
+<details open>
 
 <summary>AFFINE encryption method</summary>
 
@@ -22,7 +24,7 @@ This project features 2 encryption methods and a mathematical topic related to c
 
 </details>
 
-<details>
+<details open>
 
 <summary>HILL encryption method</summary>
 
@@ -30,7 +32,7 @@ This project features 2 encryption methods and a mathematical topic related to c
 
 </details>
 
-<details>
+<details open>
 <summary>Linear Congruences</summary>
 
 ![Linear Congruences README](Linear_Congruences/README.md)

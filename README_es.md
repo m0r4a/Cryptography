@@ -15,7 +15,7 @@ El objetivo principal de este proyecto fue simplemente tener un proyecto activo 
 Este proyecto tiene 2 métodos de encriptación y un tema matemático relacionado con la criptografía.
 
 
-<details>
+<details open>
 
 <summary>Método de encriptación AFFINE</summary>
 
@@ -23,7 +23,7 @@ Este proyecto tiene 2 métodos de encriptación y un tema matemático relacionad
 
 </details>
 
-<details>
+<details open>
 
 <summary>Método de encriptación HILL</summary>
 
@@ -31,13 +31,15 @@ Este proyecto tiene 2 métodos de encriptación y un tema matemático relacionad
 
 </details>
 
-<details>
+<details open>
 
 <summary>Congruencias Lineales</summary>
 
 ![README de Linear Congruences](Linear_Congruences/README.md)
 
 </details>
+
+_Nota: Los README están en ingles, esos no pienso traducirlos en un futuro cercano._
 
 
 ## Aprendizaje, dificultades y el abandono del proyecto
