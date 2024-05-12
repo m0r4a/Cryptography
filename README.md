@@ -1,6 +1,6 @@
 # My Cryptography class and Python
 
-[🇲 Versión en Español](README_es.md)
+[🇲🇽 Versión en Español](README_es.md)
 
 ## Introduction
 
